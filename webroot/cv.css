@@ -1,0 +1,71 @@
+.beute{
+        display: grid;
+        width: auto;     
+}
+
+.righttextdebz{
+    margin-left: auto;
+     background-color: rgb(255, 255, 255);
+     padding: 10px;
+     border-radius: 20px;
+     color: rgb(0, 0, 0);
+     font-family: Arial, Helvetica, sans-serif;
+     width: 60%;
+     margin-top: 10px;
+     grid-area: main;
+     font-size: 1.3rem;
+    
+     
+} 
+
+.lefttextdebz{
+    margin-right: auto;
+    background-color: rgb(179, 94, 249);
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    width:40%;
+    margin-top: 10px;
+    grid-area: main;
+    font-size: 1.3rem;
+}
+
+body {
+    background-color: rgb(31, 31, 31);
+}
+
+h3{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(232, 255, 27);
+    width: 50%;
+}
+.lefttextdebz li{
+    width: 70%;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: white;
+    margin: 10px;
+    list-style: none;
+
+}
+
+.righttextdebz li{
+list-style: none;
+}
+
+img{
+    border-radius: 50%;
+    width: 80%;
+}
+h4{ 
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(118, 171, 245);
+    width: 40%; 
+}
+
+p{
+
+}
